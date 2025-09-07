@@ -157,30 +157,6 @@ geometric/
 3. No save/load functionality for drawings
 4. No undo/redo beyond removing the last shape
 
-## Future Enhancements
-
-- [ ] Implement remaining shape types (Pentagon, Hexagon, etc.)
-- [ ] Add color selection for shapes
-- [ ] Implement shape fill patterns
-- [ ] Add save/load functionality
-- [ ] Implement proper undo/redo stack
-- [ ] Add shape selection and editing
-- [ ] Export drawings to image formats
-- [ ] Add grid and snap-to-grid functionality
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or create issues for bugs and feature requests.
-
-## License
-
-This project is open source. Please add appropriate license file (MIT, Apache 2.0, etc.) based on your preferences.
-
 ## Author
 
 Zykov Ivan
-
-## Acknowledgments
-
-- Built with Win32 API for native Windows performance
-- Uses modern C++ features for robust memory management
