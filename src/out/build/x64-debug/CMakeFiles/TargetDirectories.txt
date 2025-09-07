@@ -1,6 +1,0 @@
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/geometric.dir
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/list_install_components.dir
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/install.dir
-C:/pet_p/geometric/src/out/build/x64-debug/CMakeFiles/install/local.dir
