@@ -1,0 +1,14 @@
+# ninja log v6
+60	1139	7789721629616628	CMakeFiles/geometric.dir/GUI/ToolsRectangle.cpp.obj	8aa771f55fa0e1ff
+47	1151	7789721629460364	CMakeFiles/geometric.dir/GUI/ToolsCircle.cpp.obj	8884332bdac4ef0d
+52	1158	7789721629460364	CMakeFiles/geometric.dir/GUI/ToolsTriangle.cpp.obj	9204706a6bd6d7e4
+25	1169	7789721629148186	CMakeFiles/geometric.dir/Model/Rectangle.cpp.obj	bf3b5805eb74378b
+18	1175	7789721629148186	CMakeFiles/geometric.dir/Model/Square.cpp.obj	6f782505b308c48b
+14	1235	7789721629148186	CMakeFiles/geometric.dir/Model/Circle.cpp.obj	b230385dc0b72ea3
+10	1623	7789721628991593	CMakeFiles/geometric.dir/main.cpp.obj	d14d860d4425acfc
+43	1642	7789721629304115	CMakeFiles/geometric.dir/GUI/IWindow.cpp.obj	ec6d97a8f57a5242
+21	1703	7789721629148186	CMakeFiles/geometric.dir/Model/Triangle.cpp.obj	721394de64d82df9
+38	1712	7789721629304115	CMakeFiles/geometric.dir/GUI/ToolsWindow.cpp.obj	f2749eca85a5a649
+29	1806	7789721629304115	CMakeFiles/geometric.dir/Model/FigureFabric.cpp.obj	d3065dcee22db302
+34	1828	7789721629304115	CMakeFiles/geometric.dir/GUI/MainWindow.cpp.obj	2f2911c1ce6ae6b9
+1829	2352	7789721647301934	geometric.exe	483ba92c809e81c7
