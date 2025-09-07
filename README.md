@@ -41,6 +41,10 @@ The application follows a clean Model-View architecture with the following compo
 - CMake 3.3 or later
 - C++20 compiler support
 
+## Getting the app
+
+You can find the app in ./build/Release directory. It built for Windows 10-11
+
 ## Building from Source
 
 ### Prerequisites
